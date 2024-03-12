@@ -1,0 +1,12 @@
+Pór Parik
+A git a programozó felület, a GitHub a weboldala
+A repository egy tárolóhely
+A Git azoknak a feledatok elvégzésére jó amelyeket többek kellene megcsinálni, de nem tudtok sokan egy géphez ülni.
+Átmeneti tároló
+
+git status
+git log
+git add
+git checkout
+git comit 
+git git clone
